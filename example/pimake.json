@@ -1,0 +1,14 @@
+{
+    "m": {
+        "type": "external-dynamic-library",
+        "libraries": ["m"]
+    },
+    "simpleapp": {
+        "type": "executable",
+        "lang": "C",
+        "sources": [
+            "src/main.cpp",
+            "src/test.cpp"
+        ]
+    }
+}

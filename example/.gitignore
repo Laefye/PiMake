@@ -1,0 +1,4 @@
+*.o
+simpleapp
+simpleapp.exe
+pimake-build.json
